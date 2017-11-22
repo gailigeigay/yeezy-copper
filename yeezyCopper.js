@@ -4,24 +4,24 @@
 var config = {
   'desired_sizes': ['9', '9.5', '10', '8.5', '8', '10.5', '11', '11.5', '12'], // arranged in order of preference
   'billing_different_than_shipping': true, // set to use different billing address, TRUE or FALSE
-  'first_name': 'Hypebeast', // Shipping firstname
-  'last_name': 'McYeezus', // Shipping surname
-  'street_address_1': '2 Supreme St.', // main address for shipping address
-  'street_address_2': 'Suite 6', // used for apartment #s, etc FOR SHIPPING
-  'city': 'New York', // City for shipping information
-  'state': 'New York', // State for shipping information
-  'zipcode': '10013', // ZIP CODE for shipping information
-  'phone_number': 'XXX-XXX-XXXX', // must be in this format
-  'billing_address_1': '300 Yeezy St', // main address for billing address
-  'billing_address_2': '', // used for apartment #s, etc for BILLING
-  'billing_city': 'Fairfax', // City for billing information
+  'first_name': 'Shuoqi', // Shipping firstname
+  'last_name': 'Zhang', // Shipping surname
+  'street_address_1': '99 Vista Montana', // main address for shipping address
+  'street_address_2': 'apt 2503', // used for apartment #s, etc FOR SHIPPING
+  'city': 'San Jose', // City for shipping information
+  'state': 'California', // State for shipping information
+  'zipcode': '95134', // ZIP CODE for shipping information
+  'phone_number': '607-319-6841', // must be in this format
+  'billing_address_1': '99 Vista Montana', // main address for billing address
+  'billing_address_2': 'apt 2503', // used for apartment #s, etc for BILLING
+  'billing_city': 'San Jose', // City for billing information
   'billing_state': 'California', // State for billing information
-  'billing_zipcode': '90036', // ZIP CODE for billing information
-  'name_on_card': 'Hypebeast McYeezus', //FULL NAME as printed on the front of your Credit Card
-  'card_number': 'STEALMYIDENTITY101', // Put your full Credit Card # in this field without spaces or dashes or anything
+  'billing_zipcode': '95134', // ZIP CODE for billing information
+  'name_on_card': 'ShuoqiZhang', //FULL NAME as printed on the front of your Credit Card
+  'card_number': '4266841507616272', // Put your full Credit Card # in this field without spaces or dashes or anything
   'expires_month': 'January', // must be full month name to match adidas.com
-  'expires_year': '2001', // Year the Credit Card expires
-  'security_code': '404', // a 3 or 4 digit CVV code that is on the back of your Credit Card (4 Digits for AMEX on front)
+  'expires_year': '2022', // Year the Credit Card expires
+  'security_code': '848', // a 3 or 4 digit CVV code that is on the back of your Credit Card (4 Digits for AMEX on front)
   'shipfast': true //SET TO TRUE IF YOU WANT OVERNIGHT SHIPPING, COSTS $15 EXTRA. SET TO FALSE FOR NORMAL SHIPPING.
 };
 
